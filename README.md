@@ -39,7 +39,7 @@ cd DAM
 
 You can download pretrained model here to skip the DAM:
 
-- [IG65M+DAM](https://drive.google.com/mymodel.pth) trained on DoTA as the reference domain. 
+- [IG65M+DAM](https://drive.google.com/file/d/1MH_IZclrdHmfz0IMqLqmBfmrz-q6rP8P/view?usp=sharing) trained on DoTA as the reference domain. 
 
 ### Create Split Files
 
