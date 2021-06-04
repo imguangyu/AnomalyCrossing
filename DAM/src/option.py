@@ -29,7 +29,7 @@ parser.add_argument('--pt_time_thresh', default=2, type=int, help='time distance
 parser.add_argument('--pt_video_len_max', type=int, help='max video length for DSM')
 
 # ============================================== SSL setting (dota, bdd and others) =====================================
-parser.add_argument('--ssl_frame_path', default="D:\\workspaces\\corning\\data\\frames", type=str)
+parser.add_argument('--ssl_frame_path', default="frames", type=str)
 parser.add_argument('--ssl_checkpoint', default="./checkpoint_ssl.pth", type=str)
 parser.add_argument('--ssl_output', default="./checkpoint_ssl_out.pth", type=str)
 parser.add_argument('--ssl_arch', default='rgb_r2plus1d_8f_34_encoder', type=str)
