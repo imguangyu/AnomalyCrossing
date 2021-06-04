@@ -1,4 +1,4 @@
-# Anomaly Crossing
+# Anomaly Crossing: New Horizons for Cross-domain Few-shot Video Anomaly Detection
 
 This repository is the official implementation of Anomaly Crossing: New Horizons for Cross-domain Few-shot Video Anomaly Detection. 
 
